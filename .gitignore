@@ -1,0 +1,13 @@
+# build outputs and game data never go in the repo
+*.pak
+*.ucas
+*.utoc
+*.uasset
+*.uexp
+*.dmp
+*.blend
+*.blend1
+*.fbx
+__pycache__/
+*.pyc
+ghidra/*.txt
