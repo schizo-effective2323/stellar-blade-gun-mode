@@ -43,6 +43,10 @@ the `NGM_TOOLS` environment variable). Making them portable is welcome work.
 No game files, no extracted or cooked game assets, no paks, and no decompiled game code. Build them locally from your
 own copy of the game.
 
+## License
+
+MIT, see [LICENSE](LICENSE). Contributions are accepted under the same license.
+
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md).
